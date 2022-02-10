@@ -1,5 +1,0 @@
-service:
-  type: LoadBalancer
-  ingress: 
-    enable: true
-    hostname: devops.ilia.com
